@@ -1,4 +1,4 @@
-# ANLY502  Reddit Comments Project Writeup<br>Elena Ramlow
+#  Reddit Comments Project Writeup<br>Elena Ramlow
 
 
 ## Dataset and Background
