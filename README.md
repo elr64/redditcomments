@@ -1,4 +1,4 @@
-#  Reddit Comments Project Writeup<br>Elena Ramlow
+#  Reddit Comments Exploratory and Predictive Analyses<br>Elena Ramlow
 
 
 ## Dataset and Background
